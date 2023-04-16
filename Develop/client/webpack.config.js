@@ -36,7 +36,7 @@ module.exports = () => {
         swDest: 'src-sw.js',
       }),
     ],
-    
+
 //CSS loaders and babel to webpack.
     module: {
       rules: [
