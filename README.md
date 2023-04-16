@@ -1,7 +1,7 @@
-# Text Editor Starter Code
+# Mytxt - Editor
+
  - [Description](#description)
  - [Installation](#installation)
- - [Usage](#usage)
  - [LICENSE](#license)
 
 ## Description
@@ -9,7 +9,7 @@
 As a web developer, I WANT to create notes or code snippets with or without an internet connection SO THAT I can reliably retrieve them for later use.
  
 ## Installation
-Pending MOCK Image and Instalaktions 
+Pending MOCK Image, code: database annd install js, heroku  and Instalations 
 
 ## Dependenses 
  - IndexedDB
